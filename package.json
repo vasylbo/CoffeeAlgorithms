@@ -1,0 +1,11 @@
+{
+  "name": "CoffeeAlgorithms",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./main.coffee"
+  },
+  "devDependencies": {
+    "coffee-script":"1.9.0"
+  }
+}
